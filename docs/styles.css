@@ -1,0 +1,90 @@
+/*@font-face {*/
+/*    src: url('https://fonts.googleapis.com/css?family=Neuton');*/
+/*    font-family:'Neuton';*/
+/*    font-style: normal;*/
+/*    font-stretch: 1% 500%; !* Required by Chrome *!*/
+/*}*/
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: Neuton;
+    text-align: left;
+    margin: auto;
+    padding: 0 80px 0 80px;
+    max-width: 80em;
+}
+
+h1 {
+    color: #808080;
+    font-size: 78px;
+    font-weight: 700;
+    line-height: 99px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    margin: 0;
+    padding-bottom: 0;
+}
+
+h2 {
+    font-size: 170px;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    padding-top: 0;
+    margin-top: 0;
+    margin-bottom: 0.1em;
+    font-stretch: 210%;
+}
+
+header {
+    margin-top: 2em;
+    position: relative;
+}
+
+p {
+    margin-top: 0;
+}
+
+.menu {
+    position: absolute;
+    top: 2em;
+    right: -1.5em;
+    float: right;
+    width: 3.5em;
+}
+
+.light {
+    color: #bfbfbf;
+}
+
+.brace {
+    font-size: 90px;
+    font-weight: 700;
+}
+
+.main {
+    padding: 0 5em;
+}
+
+.content {
+    padding: 0 0.7em;
+
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 61px;
+    letter-spacing: 0.05em;
+    margin-bottom: -63px;
+
+}
+
+.what-we-do {
+    font-family: Neuton;
+    font-size: 70px;
+    font-weight: 700;
+    line-height: 89px;
+    letter-spacing: 0.05em;
+    margin-left: -1em;
+    padding-top: 0.5em;
+
+}
+
+
