@@ -67,7 +67,7 @@ p {
 }
 
 .content {
-    padding: 0 0.7em;
+    padding: 0 1.2em;
 
     font-size: 34px;
     font-weight: 400;
@@ -79,11 +79,11 @@ p {
 
 .subSection {
     font-family: Neuton;
-    font-size: 70px;
+    font-size: 50px;
     font-weight: 700;
-    line-height: 89px;
+    line-height: 69px;
     letter-spacing: 0.05em;
-    margin-left: -1em;
+    margin-left: 0.1em;
     padding-top: 0.5em;
 
 }
