@@ -73,7 +73,6 @@ header {
 }
 
 .subSection {
-    font-family: Neuton Serif;
     font-size: 50px;
     font-weight: 700;
     line-height: 69px;
@@ -161,7 +160,6 @@ header {
 }
 
 .hamburger-menu__slider li {
-    padding: 10px 0 10px 10px;
     font-size: 38px;
     line-height: 60px;
     list-style-type: none;
