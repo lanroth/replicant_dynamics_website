@@ -1,0 +1,89 @@
+html {
+    -moz-text-size-adjust: none;
+    -webkit-text-size-adjust: none;
+    text-size-adjust: none;
+}
+
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: 'Neuton', serif;
+    text-align: left;
+    margin: auto;
+    /* padding: 0 80px 0 80px; */
+    padding: calc(8px + 1.5625vw); 
+    /* 0 14px 0 14px; */
+    max-width: 80em;
+}
+
+h1 {
+    color: #808080;
+    font-size: 78px;
+    font-weight: 700;
+    line-height: 99px;
+    letter-spacing: -0.075em;
+    text-align: left;
+    margin: 0;
+    padding-bottom: 0;
+}
+
+h2 {
+    font-size: 150px;
+    font-weight: 700;
+    letter-spacing: -0.05em;
+    padding-top: 0;
+    margin-top: 0;
+    margin-bottom: 0.1em;
+    font-stretch: 210%;
+}
+
+p {
+    margin-top: 0;
+}
+
+header {
+    margin-top: 2em;
+    position: relative;
+    /* background-color: #f00; */
+}
+
+.menu {
+    position: absolute;
+    top: 2em;
+    right: 1em;
+    float: right;
+    width: 3.5em;
+}
+
+.light {
+    color: #bfbfbf;
+}
+
+.brace {
+    font-size: 75px;
+    font-weight: 700;
+}
+
+.main {
+    padding: 0 5em;
+}
+
+
+.subSection {
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 69px;
+    letter-spacing: -0.01em;
+    margin-left: 0.1em;
+    padding-top: 0.5em;
+}
+
+.content {
+    padding: 0 1.2em;
+    font-size: 36px;
+    /* font-size: max(36px, 3em); */
+    font-weight: 400;
+    line-height: 1.3em;
+    letter-spacing: 0.04em;
+    margin-bottom: -63px;
+}
