@@ -1,4 +1,4 @@
-# steve_and_nick_website
+# replicant_dynamics_website
 
 Website files are in the [src](src) directory.
 
